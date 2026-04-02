@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi there
 
-<!--
-**Dilawar777/Dilawar777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💫 About Me:
+Kaggle competitions and data analyst projects
+Real-time data analytics projects
+Guidance and mentorship in data analytics
+Advanced data analysis and visualization
+Projects, Kaggle experience, data analysis techniques
+Turning raw data into actionable insights
 
-Here are some ideas to get you started:
+🌐 Socials:
+Instagram email
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tech Stack:
+C++ Java Python MicrosoftSQLServer MySQL Adobe Matplotlib NumPy Pandas Plotly PyTorch scikit-learn TensorFlow Scipy
